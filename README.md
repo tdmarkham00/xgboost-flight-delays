@@ -1,2 +1,2 @@
-# xgboost-flight-delays
-Refer to 
+# Predicting flight delays with XGBoost
+View delays.ipynb for the classification tutorial
